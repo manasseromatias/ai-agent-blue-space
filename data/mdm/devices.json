@@ -1,0 +1,12 @@
+[
+ {
+  "serial": "C02XK1",
+  "assigned_to": "otra.persona@empresa.test",
+  "managed": true
+ },
+ {
+  "serial": "PF3QZ8",
+  "assigned_to": "alguien.mas@empresa.test",
+  "managed": true
+ }
+]

@@ -1,0 +1,8 @@
+{
+ "id": "ALERT-DRIVE-0001",
+ "rule": "drive_mass_download",
+ "severity": "P1",
+ "user": "usuario.offboarding@empresa.test",
+ "detail": "More than 300 downloads in under 10 minutes",
+ "context": "User's last day (resignation)"
+}

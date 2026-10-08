@@ -1,0 +1,14 @@
+{
+ "drive_mass_download": {
+  "required": [
+   "siem",
+   "workspace",
+   "idp",
+   "edr",
+   "mdm"
+  ],
+  "conditional": {
+   "threat_intel": "only if the source IP is not known for the user"
+  }
+ }
+}

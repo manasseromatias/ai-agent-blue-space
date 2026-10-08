@@ -1,0 +1,15 @@
+{
+ "user": "usuario.offboarding@empresa.test",
+ "known_ips": [
+  {
+   "ip": "198.51.100.24",
+   "label": "residential",
+   "first_seen": "2025-03-11"
+  },
+  {
+   "ip": "203.0.113.10",
+   "label": "office",
+   "first_seen": "2024-08-01"
+  }
+ ]
+}

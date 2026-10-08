@@ -1,0 +1,32 @@
+[
+ {
+  "ts": "2026-10-02T19:52:41Z",
+  "user": "usuario.offboarding@empresa.test",
+  "event": "user.session.start",
+  "outcome": "SUCCESS",
+  "ip": "198.51.100.24",
+  "asn_org": "Residential ISP",
+  "geo": "Buenos Aires, AR",
+  "device_managed": false
+ },
+ {
+  "ts": "2026-09-30T13:10:02Z",
+  "user": "usuario.offboarding@empresa.test",
+  "event": "user.session.start",
+  "outcome": "SUCCESS",
+  "ip": "198.51.100.24",
+  "asn_org": "Residential ISP",
+  "geo": "Buenos Aires, AR",
+  "device_managed": false
+ },
+ {
+  "ts": "2026-09-29T12:44:19Z",
+  "user": "usuario.offboarding@empresa.test",
+  "event": "user.session.start",
+  "outcome": "SUCCESS",
+  "ip": "203.0.113.10",
+  "asn_org": "Office",
+  "geo": "Buenos Aires, AR",
+  "device_managed": true
+ }
+]

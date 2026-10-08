@@ -1,0 +1,14 @@
+[
+ {
+  "hostname": "LT-0412",
+  "user": "otra.persona@empresa.test",
+  "os": "macOS 15",
+  "sensor": "online"
+ },
+ {
+  "hostname": "LT-0419",
+  "user": "alguien.mas@empresa.test",
+  "os": "Windows 11",
+  "sensor": "online"
+ }
+]

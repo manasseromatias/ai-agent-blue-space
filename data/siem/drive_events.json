@@ -1,0 +1,3298 @@
+[
+ {
+  "ts": "2026-10-02T20:00:05.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_0.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:06.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_1.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:07.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_2.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:08.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_3.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:10.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_4.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:11.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_5.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:12.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_6.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:14.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_7.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:15.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_8.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:16.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_9.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:18.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_10.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:19.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_11.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:20.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_12.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:22.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_13.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:23.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_14.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:24.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_15.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:25.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_16.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:27.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_17.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:28.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_18.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:29.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_19.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:31.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_20.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:32.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_21.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:33.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_22.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:35.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_23.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:36.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_24.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:37.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_25.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:39.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_26.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:40.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_27.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:41.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_28.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:43.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_29.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:44.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_30.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:45.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_31.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:46.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_32.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:48.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_33.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:49.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_34.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:50.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_35.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:52.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_36.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:53.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_0.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:54.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_1.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:56.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_2.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:57.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_3.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:00:58.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_4.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:00.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_5.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:01.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_6.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:02.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_7.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:03.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_8.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:05.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_9.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:06.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_10.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:07.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_11.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:09.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_12.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:10.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_13.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:11.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_14.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:13.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_15.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:14.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_16.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:15.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_17.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:17.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_18.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:18.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_19.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:19.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_20.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:21.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_21.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:22.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_22.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:23.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_23.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:24.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_24.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:26.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_25.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:27.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_26.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:28.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_27.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:30.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_28.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:31.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_29.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:32.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_30.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:34.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_31.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:35.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_32.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:36.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_33.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:38.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_34.docx",
+  "src_ip": "198.51.100.24",
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:39.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_35.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:40.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_36.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:41.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_0.xlsx",
+  "src_ip": "198.51.100.24",
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:43.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_1.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:44.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_2.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:45.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_3.xlsx",
+  "src_ip": "198.51.100.24",
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:47.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_4.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:48.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_5.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:49.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_6.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:51.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_7.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:52.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_8.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:53.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_9.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:55.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_10.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:56.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_11.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:57.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_12.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:01:59.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_13.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:00.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_14.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:01.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_15.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:02.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_16.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:04.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_17.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:05.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_18.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:06.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_19.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:08.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_20.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:09.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_21.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:10.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_22.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:12.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_23.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:13.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_24.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:14.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_25.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:16.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_26.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:17.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_27.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:18.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_28.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:20.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_29.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:21.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_30.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:22.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_31.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:23.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_32.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:25.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_33.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:26.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_34.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:27.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_35.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:29.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_36.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:30.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_0.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:31.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_1.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:33.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_2.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:34.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_3.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:35.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_4.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:37.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_5.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:38.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_6.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:39.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_7.xlsx",
+  "src_ip": "198.51.100.24",
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:40.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_8.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:42.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_9.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:43.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_10.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:44.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_11.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:46.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_12.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:47.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_13.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:48.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_14.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:50.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_15.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:51.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_16.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:52.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_17.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:54.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_18.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:55.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_19.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:56.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_20.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:58.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_21.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:02:59.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_22.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:00.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_23.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:01.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_24.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:03.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_25.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:04.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_26.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:05.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_27.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:07.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_28.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:08.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_29.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:09.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_30.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:11.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_31.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:12.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_32.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:13.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_33.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:15.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_34.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:16.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_35.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:17.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_36.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:18.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_0.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:20.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_1.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:21.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_2.docx",
+  "src_ip": "198.51.100.24",
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:22.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_3.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:24.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_4.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:25.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_5.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:26.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_6.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:28.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_7.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:29.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_8.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:30.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_9.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:32.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_10.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:33.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_11.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:34.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_12.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:36.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_13.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:37.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_14.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:38.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_15.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:39.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_16.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:41.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_17.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:42.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_18.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:43.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_19.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:45.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_20.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:46.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_21.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:47.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_22.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:49.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_23.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:50.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_24.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:51.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_25.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:53.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_26.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:54.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_27.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:55.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_28.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:56.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_29.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:58.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_30.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:03:59.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_31.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:00.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_32.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:02.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_33.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:03.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_34.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:04.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_35.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:06.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_36.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:07.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_0.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:08.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_1.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:10.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_2.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:11.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_3.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:12.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_4.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:14.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_5.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:15.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_6.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:16.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_7.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:17.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_8.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:19.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_9.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:20.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_10.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:21.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_11.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:23.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_12.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:24.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_13.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:25.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_14.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:27.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_15.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:28.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_16.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:29.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_17.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:31.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_18.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:32.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_19.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:33.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_20.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:35.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_21.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:36.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_22.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:37.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_23.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:38.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_24.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:40.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_25.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:41.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_26.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:42.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_27.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:44.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_28.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:45.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_29.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:46.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_30.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:48.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_31.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:49.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_32.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:50.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_33.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:52.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_34.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:53.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_35.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:54.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_36.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:55.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_0.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:57.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_1.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:58.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_2.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:04:59.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_3.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:01.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_4.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:02.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_5.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:03.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_6.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:05.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_7.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:06.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_8.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:07.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_9.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:09.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_10.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:10.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_11.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:11.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_12.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:13.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_13.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:14.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_14.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:15.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_15.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:16.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_16.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:18.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_17.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:19.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_18.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:20.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_19.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:22.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_20.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:23.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_21.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:24.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_22.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:26.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_23.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:27.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_24.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:28.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_25.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:30.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_26.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:31.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_27.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:32.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_28.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:33.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_29.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:35.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_30.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:36.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_31.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:37.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_32.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:39.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_33.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:40.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_34.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:41.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_35.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:43.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_36.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:44.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_0.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:45.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_1.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:47.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_2.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:48.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_3.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:49.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_4.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:51.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_5.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:52.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_6.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:53.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_7.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:54.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_8.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:56.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_9.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:57.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_10.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:05:58.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_11.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:00.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_12.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:01.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_13.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:02.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_14.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:04.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_15.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:05.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_16.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:06.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_17.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:08.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_18.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:09.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_19.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:10.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_20.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:11.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_21.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:13.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_22.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:14.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_23.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:15.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_24.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:17.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_25.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:18.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_26.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:19.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_27.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:21.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_28.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:22.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_29.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:23.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_30.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:25.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_31.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:26.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_32.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:27.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_33.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:29.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_34.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:30.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_35.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:31.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_36.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:32.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_0.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:34.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_1.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:35.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_2.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:36.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_3.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:38.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_4.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:39.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_5.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:40.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_6.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:42.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_7.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:43.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_8.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:44.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_9.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:46.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_10.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:47.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_11.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:48.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_12.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:50.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_13.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:51.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_14.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:52.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_15.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:53.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_16.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:55.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_17.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:56.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_18.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:57.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_19.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:06:59.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_20.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:00.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_21.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:01.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_22.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:03.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_23.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:04.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_24.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:05.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_25.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:07.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_26.pdf",
+  "src_ip": "198.51.100.24",
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:08.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_27.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:09.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_28.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:10.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_29.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:12.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_30.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:13.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_31.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:14.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_32.pdf",
+  "src_ip": "198.51.100.24",
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:16.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_33.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:17.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_34.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:18.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_35.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:20.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_36.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:21.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_0.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:22.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_1.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:24.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_2.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:25.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_3.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:26.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_4.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:28.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_5.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:29.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_6.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:30.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_7.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:31.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_8.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:33.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_9.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:34.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_10.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:35.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_11.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:37.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_12.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:38.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_13.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:39.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_14.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:41.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_15.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:42.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_16.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:43.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_17.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:45.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_18.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:46.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_19.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:47.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_20.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:48.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_21.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:50.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_22.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:51.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_23.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:52.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_24.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:54.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_25.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:55.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_26.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:56.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_27.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:58.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_28.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:07:59.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_29.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:00.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_30.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:02.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_31.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:03.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_32.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:04.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_33.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:06.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_34.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:07.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_35.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:08.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_36.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:09.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_0.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:11.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_1.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:12.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_2.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:13.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_3.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:15.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_4.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:16.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_5.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:17.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_6.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:19.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_7.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:20.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_8.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:21.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_9.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:23.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_10.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:24.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_11.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:25.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_12.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:26.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_13.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:28.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_14.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:29.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_15.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:30.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_16.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:32.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_17.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:33.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_18.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:34.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_19.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:36.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_20.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:37.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_21.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:38.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_22.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:40.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_23.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:41.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pricing_model_24.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:42.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_25.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:44.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Pipeline_LATAM_26.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:45.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_27.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:46.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_28.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:47.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_29.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:49.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_30.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:50.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_31.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:51.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_32.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:53.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Arquitectura_plataforma_33.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:54.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_34.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:55.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Roadmap_2027_35.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:57.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Q3_forecast_36.xlsx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:58.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_0.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:08:59.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_1.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:09:01.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Contratos_proveedores_2.docx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:09:02.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Onboarding_guide_3.pdf",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ },
+ {
+  "ts": "2026-10-02T20:09:03.000Z",
+  "user": "usuario.offboarding@empresa.test",
+  "action": "file_download",
+  "object": "Board_deck_4.pptx",
+  "src_ip": null,
+  "log_source": "workspace_drive"
+ }
+]
